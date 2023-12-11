@@ -1,8 +1,8 @@
 
 <p align="center">
-  <img src="https://usagif.com/wp-content/uploads/gif/confetti-10.gif" height="500"/>
+  <img src="https://usagif.com/wp-content/uploads/gif/confetti-10.gif" height="200"/>
   <img src="https://iili.io/JTXyw91.jpg" />
-  <img src="https://usagif.com/wp-content/uploads/gif/confetti-10.gif" height="500"/>
+  <img src="https://usagif.com/wp-content/uploads/gif/confetti-10.gif" height="200"/>
 </p>
 
 ### Hi there 👋
