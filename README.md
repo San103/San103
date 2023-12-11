@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on improving my skills.
 - 🌱 I’m currently learning in more advance topic.
 - 🤔 I’m looking for help in my loneliness
-- ⚡ Fun fact: I can't sleep when I am awake! I can't weep when I'm wide-opened
+- ⚡ Fun fact: `I can't sleep when I am awake! I can't weep when I'm wide-opened`
 
 ## Skills 🙌
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
