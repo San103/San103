@@ -1,5 +1,8 @@
 ### Hi there 👋
-![test](https://iili.io/JTXyw91.jpg)
+
+<p align="center">
+  <img src="https://iili.io/JTXyw91.jpg" />
+</p>
 - 🔭 I’m currently working on improving my skills.
 - 🌱 I’m currently learning in more advance topic.
 - 🤔 I’m looking for help in my lonliness
