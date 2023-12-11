@@ -6,8 +6,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on improving my skills.
 - 🌱 I’m currently learning in more advance topic.
-- 🤔 I’m looking for help in my lonliness
-- ⚡ Fun fact: I can't live without you
+- 🤔 I’m looking for help in my loneliness
+- ⚡ Fun fact: I can't live without myself, I can't sleep when I am awake! 
 
 ## Skills 🙌
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
