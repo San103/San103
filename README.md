@@ -1,5 +1,6 @@
 
 <p align="center">
+  <img src="https://usagif.com/wp-content/uploads/gif/confetti-10.gif" />
   <img src="https://iili.io/JTXyw91.jpg" />
 </p>
 
