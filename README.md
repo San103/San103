@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help in my lonliness
 - ⚡ Fun fact: I can't live without you
 
-## Skills
+## Skills 🙌
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,7 +17,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## Stats
+## Stats 👻
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San103&layout=compact)
 <!--
 **San103/San103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
