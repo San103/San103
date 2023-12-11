@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on how can I get over on my break up.
+- 🌱 I’m currently learning in state management Pinia
+- 👯 I’m looking to collaborate on my package
+- 🤔 I’m looking for help with my heart
+- 💬 Ask me about myself
+- 📫 How to reach me: sanpalban.web.app
+- 😄 Pronouns: san
+- ⚡ Fun fact: I can't live without you haha
 <!--
 **San103/San103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
