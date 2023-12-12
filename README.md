@@ -1,7 +1,7 @@
 
 <p align="center">
   <img src="https://usagif.com/wp-content/uploads/gif/confetti-10.gif" height="450"/>
-  <img src="https://i.ibb.co/XX9ctpk/1212-removebg-preview.png" />
+  <img src="https://i.ibb.co/LhjJ7S8/1212-removebg-preview-1.png" />
   <img src="https://usagif.com/wp-content/uploads/gif/confetti-10.gif" height="450"/>
 </p>
 
