@@ -7,7 +7,8 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on improving my skills.
-- 🌱 I’m currently learning in more advance topic.
+- I am currently work as a System programming since March 27 2023
+- 🌱 I’m currently learning in more advanced topic.
 - 🤔 I’m looking for help in my loneliness
 - ⚡ Fun fact: `I can't sleep when I am awake! I can't weep when I'm wide-opened`
 
