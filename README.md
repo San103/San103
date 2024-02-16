@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="https://usagif.com/wp-content/uploads/gif/confetti-10.gif" height="450"/>
-  <img src="https://i.ibb.co/LhjJ7S8/1212-removebg-preview-1.png" />
-  <img src="https://usagif.com/wp-content/uploads/gif/confetti-10.gif" height="450"/>
-</p>
-
 ### Hi there 👋
 - 🔭 I’m currently working on improving my skills.
 - System programmer since March 27 2023
