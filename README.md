@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on improving my skills.
 - System programmer since March 27 2023
 - 🌱 I’m currently learning in more advanced topic.
-- 🤔 I’m looking for help in my loneliness
+- 🤔 I’m looking for cure in my loneliness
 - ⚡ Fun fact: `I can't sleep when I am awake! I can't weep when I'm wide-opened`
 
 ## Skills 🙌
