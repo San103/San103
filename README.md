@@ -1,9 +1,9 @@
 
 ### Hi there 👋
-- 🔭 I’m currently working on improving my skills.
+- 🔭 I’m currently working on something!.
 - System programmer since March 27 2023
-- 🌱 I’m currently learning in more advanced topic.
-- 🤔 I’m looking for cure in my loneliness
+- 🌱 I’m currently learning in more advanced topics.
+- 🤔 I’m looking for a cure in my loneliness
 - ⚡ Fun fact: `I can't sleep when I am awake! I can't weep when I'm wide-opened`
 
 ## Skills 🙌
