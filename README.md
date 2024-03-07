@@ -19,7 +19,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## Expertise 👻
+<!-- ## Expertise 👻 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San103&layout=compact) -->
 <!--
 **San103/San103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
