@@ -2,7 +2,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on something!.
 - March 27 2023 started.
-- 🌱 I’m currently learning in more advanced topics.
+- 🌱 I’m currently learning in Secret!.
 - 🤔 I’m looking for a cure in my loneliness
 - ⚡ Fun fact: `I dont Sleep`
 
