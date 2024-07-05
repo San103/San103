@@ -1,11 +1,9 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on something!.
-- March 27 2023 started.
-- 🌱 I’m currently learning in Secret!.
+- 🌱 I’m currently learning in Secret! March 27 2023 started..
 - 🤔 I’m looking for a cure in my loneliness, can you be my friend?
 - ⚡ Fun fact: `I dont sleep if there is still a bug`
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Laravel">
