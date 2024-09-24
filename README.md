@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 - 🔭 I’m currently working on something!.
-- 🌱 I’m currently learning in Secret! March 27 2023 started..
+- 🌱 I’m currently learning in enhancing my skills in problem solving! March 27 2023 started..
 - 🤔 I’m looking for a cure in my loneliness, will you be my friend?
 - ⚡ Fun fact: `I dont sleep with bugs`
 
