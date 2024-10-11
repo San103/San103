@@ -4,7 +4,7 @@
 - ⚡ `Your Dark Secret`
 
 
-`When your gf comes out after a shower:`
+`You when your gf comes out after a shower:`
 <div align="center">
   <img src="https://i.ibb.co/F4CQLMb/shrek-shrek-rizz-1.gif" alt="Laravel">
 </div>
