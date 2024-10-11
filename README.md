@@ -4,10 +4,10 @@
 - ⚡ Fun fact: `I dont sleep with bugs`
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Laravel">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh2NWt2MTQ5aGk2bjFsazNhZnQyN2FvbjBqM2FzbjNrYWJmdTU3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Ch2Z4c4FfFw4/giphy.webp" alt="Laravel">
 </div>
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh2NWt2MTQ5aGk2bjFsazNhZnQyN2FvbjBqM2FzbjNrYWJmdTU3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Ch2Z4c4FfFw4/giphy.webp" alt="Laravel">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Laravel">
 </div>
 
 ## Skills 🙌
