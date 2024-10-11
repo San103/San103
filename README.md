@@ -3,8 +3,9 @@
 - 🌱  March 27 2023
 - ⚡ Fun fact: `I dont sleep with bugs`
 <div align="center">
-  <img src="https://media1.tenor.com/m/mtiOW6O-k8YAAAAC/shrek-shrek-rizz.gif" alt="Laravel">
+  <img src="https://d1dowa0nsnd8m2.cloudfront.net/w8fthm%2Fpreview%2F61515699%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1728609380&Signature=SVCFJMBL3V7oC0AVOWoI~MqROcDxQJHW1q7QnMdjbh8eKWdEx6MVDqAoamDFsG2nae~v~j8qW~sGLIs-HYRxa66ErXesID4-uqXndNI4jhImmPHW5Ytt4g69Y~kViCYPku9K-xPzGyHikB8ia430o7RcazHg5iYQcdFusiPE3x8hcKzTcvbXg8dDses3tXQsUnaQcF-0LHUlve~OsFIph8Yb0TgjyPJv6IlK-h7j-0q9-bDrtDFHXRN5QRIjKWDUXgMK071o32ID87FthWXb9r3cZkMr9YzOz7sTeDsaKo1THDp9xEeM8ceIFnTl6FZjEv9t1vzPk4wn2vCYPRDYhw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="Laravel">
 </div>
+
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh2NWt2MTQ5aGk2bjFsazNhZnQyN2FvbjBqM2FzbjNrYWJmdTU3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Ch2Z4c4FfFw4/giphy.webp" alt="Laravel">
 </div>
