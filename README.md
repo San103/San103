@@ -2,7 +2,9 @@
 ### Hi there 👋
 - 🌱  March 27 2023
 - ⚡ Fun fact: `I dont sleep with bugs`
-
+<div align="center">
+  <img src="https://media1.tenor.com/m/mtiOW6O-k8YAAAAC/shrek-shrek-rizz.gif" alt="Laravel">
+</div>
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmh2NWt2MTQ5aGk2bjFsazNhZnQyN2FvbjBqM2FzbjNrYWJmdTU3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Ch2Z4c4FfFw4/giphy.webp" alt="Laravel">
 </div>
