@@ -4,9 +4,12 @@
 - ⚡ `Your Dark Secret`
 
 
-`You when your gf comes out after a shower:`
+`When you see your old code:`
 <div align="center">
   <img src="https://i.ibb.co/F4CQLMb/shrek-shrek-rizz-1.gif" alt="Laravel">
+</div>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN4Ym4yNnhsOG1hbmxtaTQ0czVxM3QzcW9taDg3MmhiZ2FmcnZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DvMHwFYLVHlZe/giphy.webp" alt="Laravel">
 </div>
 
 <div align="center">
