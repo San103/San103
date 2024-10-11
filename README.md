@@ -1,9 +1,9 @@
 
 ### Hi there 👋
 - 🌱  March 27 2023
-- ⚡ Fun fact: `I dont sleep with bugs`
+- ⚡ `Your Dark Secret`
 <div align="center">
-  <img src="https://i.ibb.co/yqYVcxZ/shrek-rizz-meme-original.gif" alt="Laravel">
+  <img src="https://i.ibb.co/F4CQLMb/shrek-shrek-rizz-1.gif" alt="Laravel">
 </div>
 
 <div align="center">
