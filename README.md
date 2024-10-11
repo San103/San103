@@ -3,7 +3,7 @@
 - 🌱  March 27 2023
 - ⚡ Fun fact: `I dont sleep with bugs`
 <div align="center">
-  <img src="https://drive.google.com/file/d/1K7rYKqKYNYyxc6QuztXTzW_oWI5UlvyF/view?usp=sharing" alt="Laravel">
+  <img src="https://i.ibb.co/yqYVcxZ/shrek-rizz-meme-original.gif" alt="Laravel">
 </div>
 
 <div align="center">
