@@ -5,7 +5,7 @@
 
 
 `When you see your old code be like:`
-<div align="center">
+<div align="center" style="width: 100%">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTN4Ym4yNnhsOG1hbmxtaTQ0czVxM3QzcW9taDg3MmhiZ2FmcnZzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DvMHwFYLVHlZe/giphy.webp" alt="Laravel">
 </div>
 
