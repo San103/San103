@@ -8,10 +8,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVwbHhxbWlhMHcxdXR6N2tzbGlvcjNrMG85cXFzc21mcnF0c2RhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TKk37hADNFG5iVxE4Y/giphy.webp" alt="Laravel">
 </div>
 
-<div align="center">
-  <img src="https://wallpaperaccess.com/full/2641074.gif" alt="Laravel">
-</div>
-
 ## Skills 🙌
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
