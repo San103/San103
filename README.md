@@ -4,8 +4,7 @@
 - ⚡ `Your Dark Secret`
 
 
-`After coding all day:`
-<div align="center">
+<div align="center" width="100%">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVwbHhxbWlhMHcxdXR6N2tzbGlvcjNrMG85cXFzc21mcnF0c2RhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TKk37hADNFG5iVxE4Y/giphy.webp" alt="Laravel">
 </div>
 
