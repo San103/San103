@@ -9,9 +9,6 @@
 </div>
 
 <div align="center">
-  <img src="https://wallpaperaccess.com/full/2825826.gif" alt="Laravel">
-</div>
-<div align="center">
   <img src="https://wallpaperaccess.com/full/2641074.gif" alt="Laravel">
 </div>
 
