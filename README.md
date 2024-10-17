@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 - 🌱  March 27 2023
-- ⚡ `Your Dark Secret`
+- ⚡ `When your intrusive thoughts win`
 
 
 <div align="center" width="100%">
