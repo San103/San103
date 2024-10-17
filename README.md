@@ -5,7 +5,7 @@
 
 
 `After coding all day:`
-<div align="center" style="width: 100%">
+<div align="center">
   <img src="https://c.tenor.com/MH0ziTog4eYAAAAd/tenor.gif" alt="Laravel">
 </div>
 
