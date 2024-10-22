@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 - 🌱  March 27 2023
-- ⚡ `When your intrusive thoughts win`
+- ⚡ `Intrusive thoughts win`
 
 
 <div align="center" width="100%">
