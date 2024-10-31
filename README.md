@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 - 🌱  March 27 2023
-- ⚡ `Intrusive thoughts win`
+- ⚡ `Coding all day, coding all night`
 
 
 <div align="center" width="100%">
