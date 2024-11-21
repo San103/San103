@@ -3,11 +3,11 @@
 - 🌱  March 27 2023
 - ⚡ `Coding all day, coding all night`
 
-
+<!--
 <div align="center" width="100%">
   <img src="https://i.giphy.com/Z5xk7fGO5FjjTElnpT.webp" alt="Laravel">
 </div>
-
+-->
 ## Skills 🙌
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
