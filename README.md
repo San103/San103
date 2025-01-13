@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 - 🌱  March 27 2023
-- ⚡ `Coding all day, coding all night`
+- ⚡ `Coding all day, coding all night, everything is alright`
 
 <!--
 <div align="center" width="100%">
