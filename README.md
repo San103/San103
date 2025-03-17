@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 - 🌱  March 27 2023
-- ⚡ `Coding all day, coding all night, Life is full of errors gotta fix them all`
+- ⚡ `Coding all day, coding in life, gotta fix them in one night`
 
 <!--
 <div align="center" width="100%">
