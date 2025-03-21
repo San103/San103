@@ -25,6 +25,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=San103&theme=github)
+
+### **📈 GitHub Stats**
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=San103&show_icons=true&theme=radical)
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 <!-- ## Expertise 👻 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=San103&layout=compact) -->
